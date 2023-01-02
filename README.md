@@ -11,7 +11,7 @@
 
   <br>Usando:</h2>
     <div align=left>
-        <p> Para utilizar no seu computador é necessario instalar o softaw UiPath: </p>
+        <p> Para utilizar no seu computador é necessario instalar o softaware UiPath: </p>
         <img width="80%" src="https://user-images.githubusercontent.com/89695635/210284459-8ac73ed5-3ad0-4917-9a56-c9de838abb49.png"/>
         <br/>
         <br/>
