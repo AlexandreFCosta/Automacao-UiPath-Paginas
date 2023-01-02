@@ -1,5 +1,5 @@
 <div align=center>
-    <h1> Automacao com UiPath para abrir paginas 🤖 🐍
+    <h1> Automação com UiPath para abrir paginas 🤖 🐍
   </div>
   
   <h3> Necessário:<br><br>
